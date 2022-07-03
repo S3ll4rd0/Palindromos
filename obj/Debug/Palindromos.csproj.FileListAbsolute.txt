@@ -1,0 +1,10 @@
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Palindromos\bin\Debug\Palindromos.exe.config
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Palindromos\bin\Debug\Palindromos.exe
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Palindromos\bin\Debug\Palindromos.pdb
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Palindromos\obj\Debug\Palindromos.csproj.SuggestedBindingRedirects.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Palindromos\obj\Debug\Palindromos.Form1.resources
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Palindromos\obj\Debug\Palindromos.Properties.Resources.resources
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Palindromos\obj\Debug\Palindromos.csproj.GenerateResource.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Palindromos\obj\Debug\Palindromos.csproj.CoreCompileInputs.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Palindromos\obj\Debug\Palindromos.exe
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Palindromos\obj\Debug\Palindromos.pdb
